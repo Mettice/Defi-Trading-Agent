@@ -1,0 +1,28 @@
+{
+  "name": "defi-trading-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "langchain": "^0.3.2",
+    "llama": "^2.1.14"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react": "^7.37.1",
+    "globals": "^15.11.0",
+    "typescript-eslint": "^8.10.0"
+  }
+}
